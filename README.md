@@ -1,7 +1,7 @@
 # EDUNET(P4)-Implementation-of-Chatbot-Using-NLP
 # 🤖 Welcome to the **NLP Chatbot** Project 🎉  
 
-![NLP Chatbot Banner(Welcome to my CHATBOT (1))
+
 
 ---
 
@@ -42,7 +42,7 @@ This isn't just any chatbot. It's a **two-level conversational AI masterpiece**,
 ---
 
 ### 📸 **Sneak Peek**  
-![Chatbot App Screenshot](https://via.placeholder.com/600x300.png?text=App+Screenshot)  
+
 
 ---
 
