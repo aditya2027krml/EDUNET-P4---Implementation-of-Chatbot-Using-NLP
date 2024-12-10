@@ -1,7 +1,7 @@
 # EDUNET(P4)-Implementation-of-Chatbot-Using-NLP
 # 🤖 Welcome to the **NLP Chatbot** Project 🎉  
 
-
+![NLP Chatbot Banner](https://github.com/aditya2027krml/EDUNET_P4_Implementation-of-Chatbot-Using-NLP/blob/main/Welcome%20to%20my%20CHATBOT%20(1).png)
 
 ---
 
@@ -43,7 +43,7 @@ This isn't just any chatbot. It's a **two-level conversational AI masterpiece**,
 
 ### 📸 **Sneak Peek**  
 
-
+![Chatbot App Screenshot]
 ---
 
 ### 📂 **Tech Stack**  
