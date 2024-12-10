@@ -33,7 +33,7 @@ This isn't just any chatbot. It's a **two-level conversational AI masterpiece**,
 ---
 
 ### 🎯 **How to Use**  
-1. Launch the app via Streamlit.  
+1. Launch the app via Streamlit (streamlit run Main Page.py).
 2. Choose your adventure:  
    - 🌟 **Level 1**: Intent-based interactions.  
    - ✨ **Level 2**: Explore NLP-driven chat.  
