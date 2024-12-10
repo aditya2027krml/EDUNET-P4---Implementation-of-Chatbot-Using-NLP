@@ -43,7 +43,7 @@ This isn't just any chatbot. It's a **two-level conversational AI masterpiece**,
 
 ### 📸 **Sneak Peek**  
 
-![Chatbot App Screenshot]
+![Chatbot App Screenshot](https://github.com/aditya2027krml/EDUNET_P4_Implementation-of-Chatbot-Using-NLP/blob/main/Chatbot%20Pictures/Level%202.png)
 ---
 
 ### 📂 **Tech Stack**  
